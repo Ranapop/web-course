@@ -72,8 +72,8 @@ Select the files -> Click stage
 Then add a comment & click on ‘Create pull request’
 ![Create pull request](https://github.com/Ranapop/web-course/blob/master/images/tutorial/create_pull_request.png)
 ### 7.2) Add reviewer
-![Add reviewer](https://github.com/Ranapop/web-course/blob/master/images/tutorial/pull_request_reviewer)
+![Add reviewer](https://github.com/Ranapop/web-course/blob/master/images/tutorial/pull_request_reviewer.png)
 ### 7.3) Wait for changes to be approved
 ### 7.4) Merge branch into master
 
-![Pull request approved](https://github.com/Ranapop/web-course/blob/master/images/tutorial/approved_request)
+![Pull request approved](https://github.com/Ranapop/web-course/blob/master/images/tutorial/approved_request.png)
