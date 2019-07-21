@@ -4,4 +4,4 @@
 ## 2) Create a repo
 Click on your user icon -> Your repositories
 
-![Your repositories](Ranapop/web-course/blob/master/images/tutorial/repositories.png)
+![Your repositories](https://github.com/Ranapop/web-course/blob/master/images/tutorial/repositories.png)
