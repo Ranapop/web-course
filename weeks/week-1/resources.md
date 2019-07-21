@@ -4,4 +4,4 @@ Git & Github
 * optionally download TurtoiseGit from [here](https://git-scm.com/download/win)
 * download GitExtensions from here 
 * [adding collaborators](https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account) 
-* instructions for setting up repo, branch creation, commiting, pushin & pull requesting in [setup.md](../setup.md)
+* instructions for setting up repo, branch creation, commiting, pushin & pull requesting in [setup.md](https://github.com/Ranapop/web-course/blob/master/weeks/week-1/setup.md)
