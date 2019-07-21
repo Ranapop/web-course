@@ -2,7 +2,7 @@
 
 # The tasks for this week are:
 ## 1) Setup workspace (basic-frontend)
-Follow the [Setup tutorial](../setup.md) steps 1 to 6 to:
+Follow the [Setup tutorial](https://github.com/Ranapop/web-course/blob/master/weeks/week-1/setup.md) steps 1 to 6 to:
 * create a repo
 * add contributor 'Ranapop'
 * download 'basic-frontend' skeleton
@@ -15,7 +15,7 @@ For this task you have to:
 * create a dev branch
 * push your changes on the dev branch
 * create a pull request
-* merge into 'master' only after approval (__see [Setup tutorial](../setup.md) steps 7 and 8__)
+* merge into 'master' only after approval (__see [Setup tutorial](https://github.com/Ranapop/web-course/blob/master/weeks/week-1/setup.md) steps 7 and 8__)
 
 ![Main tabs](https://github.com/Ranapop/web-course/blob/master/images/mocks/main_tabs.png)
 
