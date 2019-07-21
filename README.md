@@ -15,7 +15,8 @@ In each week you will receive a requirements file, with the tasks, as well as so
 
 The application will be built iteratively, in the first few weeks only with html and javascript (you can consider this a prototype, but it's mostly intended for learning purposes). Then, the frontend will be migrated to Angular. A server in Java will be implemented, first with in-memory data, then with persisted data. Towards the end, more complex features will be added. 
 
-The weekly plan is: 
+## Weekly plan 
+
 ### [Week1](https://github.com/Ranapop/web-course/blob/master/weeks/week-1) Setup workspace and add first tab
 ### [Week2](https://github.com/Ranapop/web-course/blob/master/weeks/week-2) Add elements interaction
 ### [Week3](https://github.com/Ranapop/web-course/blob/master/weeks/week-3) Save and update data
