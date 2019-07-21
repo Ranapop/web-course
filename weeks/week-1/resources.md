@@ -12,3 +12,4 @@
 * CSS tutorial: [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
 * HTML & CSS [bucky playlist](https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946)
 * CSS [box model](https://www.w3schools.com/css/css_boxmodel.asp)
+* CSS [flex box](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
