@@ -33,3 +33,8 @@ You can easily open a cmd by typing ‘cmd’ instead of the path in the file ex
 Go to https://github.com/Ranapop/web-course & download the whole repo:
 
 ![Repo url for cloning](https://github.com/Ranapop/web-course/blob/master/images/tutorial/download_repo.png)
+
+4.2) Put the ‘basic-frontend’ folder from the downloaded archive into your repo
+
+
+![Repo url for cloning](https://github.com/Ranapop/web-course/blob/master/images/tutorial/copy_basic_frontend.png)
