@@ -38,3 +38,20 @@ Go to https://github.com/Ranapop/web-course & download the whole repo:
 
 
 ![Repo url for cloning](https://github.com/Ranapop/web-course/blob/master/images/tutorial/copy_basic_frontend.png)
+
+
+
+
+![Click on modified files](https://github.com/Ranapop/web-course/blob/master/images/tutorial/commit.png)
+![Stage files](https://github.com/Ranapop/web-course/blob/master/images/tutorial/stage.png)
+![Add commit message](https://github.com/Ranapop/web-course/blob/master/images/tutorial/commit_message.png)
+![Click 'Commit & push'](https://github.com/Ranapop/web-course/blob/master/images/tutorial/commit_push.png)
+![Create new branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/create_dev_branch.png)
+![Name new branch 'dev'](https://github.com/Ranapop/web-course/blob/master/images/tutorial/create_dev_branch_2.png)
+![Select dev branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/select_dev_branch)
+![Push new branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/push_new_branch.png)
+![Tracj new branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/track_new_branch.png)
+![Open pull request](https://github.com/Ranapop/web-course/blob/master/images/tutorial/open_pull_request.png)
+![Create pull request](https://github.com/Ranapop/web-course/blob/master/images/tutorial/create_pull_request.png)
+![Add reviewer](https://github.com/Ranapop/web-course/blob/master/images/tutorial/pull_request_reviewer)
+![Pull request approved](https://github.com/Ranapop/web-course/blob/master/images/tutorial/approved_request)
