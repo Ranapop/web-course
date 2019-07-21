@@ -6,7 +6,7 @@ Click on your user icon -> Your repositories
 
 ![Your repositories](https://github.com/Ranapop/web-course/blob/master/images/tutorial/repositories.png)
 
-Add new repository
+Add new repository. You can name this however you'd like, it will be on your GitHub ;) Maybe 'self-management-web-app'? In case you don't feel creative today 
 
 ![New repo](https://github.com/Ranapop/web-course/blob/master/images/tutorial/new_repo.png)
 
