@@ -8,9 +8,15 @@ Click on your user icon -> Your repositories
 
 Add new repository
 
-
 ![New repo](https://github.com/Ranapop/web-course/blob/master/images/tutorial/new_repo.png)
 
+
+ ## 3) Add 'Ranapop' as a collaborator
+Go to Settings > Collaborators > Search for 'Ranapop'
+![New repo](https://github.com/Ranapop/web-course/blob/master/images/tutorial/add_collaborator.png)
+Copy invite link and email to 'roxanappop7@gmail.com'
+
+![New repo](https://github.com/Ranapop/web-course/blob/master/images/tutorial/email_invite.png)
 ## 3) Clone your repo locally
 ### 3.1) Go on the repo page
 ### 3.2) Copy url
