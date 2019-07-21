@@ -54,7 +54,7 @@ Download from https://sourceforge.net/projects/gitextensions/ & Install
 ### 6.3) Click on ‘Commit’
 ![Click on modified files](https://github.com/Ranapop/web-course/blob/master/images/tutorial/commit.png)
 ### 6.4) Stage the files
-Select the files -> Click stage 
+Select the files -> Click stage (the downward arrow)
 ![Stage files](https://github.com/Ranapop/web-course/blob/master/images/tutorial/stage.png)
 ### 6.4) Add commit message
 ![Add commit message](https://github.com/Ranapop/web-course/blob/master/images/tutorial/commit_message.png)
