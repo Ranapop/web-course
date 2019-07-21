@@ -10,4 +10,5 @@
 # Html & css
 * HTML tutorial: [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
 * CSS tutorial: [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI)
+* HTML & CSS [bucky playlist](https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946)
 * CSS [box model](https://www.w3schools.com/css/css_boxmodel.asp)
