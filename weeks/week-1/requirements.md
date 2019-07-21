@@ -1,7 +1,7 @@
-# The product from this week should be a non-interactive, non-responsive html page.
+# The product from this week should be a non-interactive, non-responsive html page. You may add css, but no javascript is yet required.
 
 # The tasks for this week are:
-## 1) Setup workspaceCreate a repo and add the skeleton 'basic-frontend' project in it (see the Setup tutorial steps 1 to 6)
+## 1) Setup workspace (basic-frontend)
 Follow the [Setup tutorial](../setup.md) steps 1 to 6 to:
 * create a repo
 * add contributor 'Ranapop'
@@ -9,11 +9,16 @@ Follow the [Setup tutorial](../setup.md) steps 1 to 6 to:
 * put skeleton in own repo
 * push changes on master (skeleton addition)
 
-## 2) Create a page with four tabs as in the mock bellow and push on 'dev' (see Setup tutorial steps 7 and 8)
+## 2) Modigy the page to have four tabs
+For this task you have to:
+* modify the files in 'basic-frontend' to add 4 tabs
+* create a dev branch
+* push your changes on the dev branch
+* create a pull request
+* merge into 'master' only after approval (__see [Setup tutorial](../setup.md) steps 7 and 8__)
 ![Main tabs](https://github.com/Ranapop/web-course/blob/master/images/mocks/main_tabs.png)
-__!!!Please use the 'dev' branch for development and only when the changes are done make a pull request to the 'master'.__
 
-## 3) Add the first tab as in the mock bellow and push on 'dev' (see Setup tutorial steps 7 and 8)
+## 3) Add the first tab
 ![First tab](https://github.com/Ranapop/web-course/blob/master/images/mocks/life_goals_mockup.png)
-__!!!Please use the 'dev' branch for development and only when the changes are done make a pull request to the 'master'.__
+__!!!Please use the 'dev' branch for development and only when the changes are done make a pull request to the 'master'.__ (same as with the previous step)
 
