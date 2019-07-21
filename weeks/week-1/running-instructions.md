@@ -3,3 +3,5 @@ Once you have the 'basic-frontend' folder locally, all you have to do is open 'i
 
 Initially, it should look like:
 
+[hello world](https://github.com/Ranapop/web-course/blob/master/images/tutorial/hello_world.png) 
+
