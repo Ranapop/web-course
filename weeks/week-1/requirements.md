@@ -22,6 +22,7 @@ For this task you have to:
 You have to modify the page by adding the 'Life goals' tab:
 * add the life-goals list
 * add the life-goal view-edit section
+
 __!!!Please use the 'dev' branch for development and only when the changes are done make a pull request to the 'master'.__ (same as with the previous step)
 ![First tab](https://github.com/Ranapop/web-course/blob/master/images/mocks/life_goals_mockup.png)
 
