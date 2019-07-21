@@ -20,10 +20,10 @@ The weekly plan is:
 ### [Week2](https://github.com/Ranapop/web-course/blob/master/weeks/week-2) Add elements interaction
 ### [Week3](https://github.com/Ranapop/web-course/blob/master/weeks/week-3) Save and update data
 ### [Week4](https://github.com/Ranapop/web-course/blob/master/weeks/week-4) Migrate to Angular: Part 1
-### [Week5](https://github.com/Ranapop/web-course/blob/master/weeks/week-4) Migrate to Angular: Part 2
-### [Week6](https://github.com/Ranapop/web-course/blob/master/weeks/week-5) Add server
-### [Week7](https://github.com/Ranapop/web-course/blob/master/weeks/week-6) Persist data 
-### [Week8](https://github.com/Ranapop/web-course/blob/master/weeks/week-7) Some complex features 
+### [Week5](https://github.com/Ranapop/web-course/blob/master/weeks/week-5) Migrate to Angular: Part 2
+### [Week6](https://github.com/Ranapop/web-course/blob/master/weeks/week-6) Add server
+### [Week7](https://github.com/Ranapop/web-course/blob/master/weeks/week-7) Persist data 
+### [Week8](https://github.com/Ranapop/web-course/blob/master/weeks/week-8) Some complex features 
 
 
 ## The application
