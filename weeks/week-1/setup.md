@@ -67,7 +67,7 @@ Select the files -> Click stage (the downward arrow)
 ### 7.2) Make some changes
 ### 7.3) Push on the dev branch
 •	Make sure ‘dev’ branch selected
-![Select dev branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/select_dev_branch)
+![Select dev branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/select_dev_branch.png)
 •	Click ‘Commit & push’
 •	Click yes&yes:
 ![Push new branch](https://github.com/Ranapop/web-course/blob/master/images/tutorial/push_new_branch.png)
