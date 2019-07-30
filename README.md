@@ -11,6 +11,15 @@ You will work with Github for source versioning control. The steps for setting u
 
 In each week you will implement some functionalities. These will be divided in tasks. For each task, you will do the development on a 'dev' branch and when you are done with the task, you will request a review before merging any changes on the master. Only if changes are approved, can you merge into the master. Github will allow you to do the merge before as well, but you should not. Please take a look at the last two steps from [here](https://github.com/Ranapop/web-course/blob/master/weeks/week-1/setup.md).
 
+For each task, you can do more then one commit, but request a merge to the 'master' only when the task is done.
+
+Use the following naming convention for commits:
+
+### \[week-no\]\(task-no\) changes
+
+Example
+### \[week-2\]\(task-1\) added bootstrap link to the project
+
 In each week you will receive a requirements file, with the tasks, as well as some resources. If you find helpful resources that are not listed, please feel free to suggest them.
 
 ## Weekly plan 
