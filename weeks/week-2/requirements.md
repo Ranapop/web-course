@@ -15,3 +15,14 @@ For this task you have to add the list of life goals to the page.
 You should make the list look as in the following mock, using as little custom css as possible. It is not in the scope of this task to have the list interactable. The first element is always selected, clicking on the items results in nothing. 
 ![bootstrap tabs](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/tabs_list.png)
 
+## 3)  Add life-goal view section: boostrap style
+For this task you have to add the view section of a life goal. Unlike the mock from week-1, it doesn't contain the related objectives.
+The view section is to be placed in the right of the list, as in the mockup. It should contain:
+* an edit icon in the top right, the same color as the unselected tabs
+* three fields with labels and content:
+  * name
+  * description
+  * color
+It is not in the scope of this task to add make the edit icon responsive, or to make the list on the left responsive. The content will for now be hardcoded in html.
+![bootstrap tabs](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/tabs_list.png)
+
