@@ -27,7 +27,9 @@ The view section is to be placed in the right of the list, as in the mockup. It 
 It is not in the scope of this task to add make the edit icon responsive, or to make the list on the left responsive. The content will for now be hardcoded in html.
 You need to write the code in such a way that the list group and the view section occupy the whole screen also when resizing, each taking about half. Please use the [Bootstrap Grid System](https://getbootstrap.com/docs/4.0/layout/grid/) for that.
 This is how it should look like on a wide screen:
+
 ![wide screen](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/readonly_section_large.png)
 And this is how it should look like on a small screen:
+
 ![small screen](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/readonly_section_small.png)
 
