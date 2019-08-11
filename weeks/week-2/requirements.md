@@ -33,3 +33,19 @@ And this is how it should look like on a small screen:
 
 ![small screen](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/readonly_section_small.png)
 
+## 4) Interact with the edit button: javascript time
+For this task you have to add a view-edit section to the page. When our user clicks on the edit button, he/she should be able to edit the data, and go back to the readonly view once he clicks submit. 
+In this task you must:
+* add styling to the edit button on hover
+* load an editable form on clicking edit
+* go back to the readonly view when clicking submit
+It is not in the scope of this task to:
+* save the data when submiting. If something is modified, the old data will be visible on submit (basically hardcoded in the html for now)
+This is how the edit button should look on hover:
+![edit_hover](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_hover.png)
+This is the form that appears on clicking the edit button:
+![edit_click](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_click.png)
+This is how a color can be selected:
+![edit_select_box](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_click_select_box.png)
+
+
