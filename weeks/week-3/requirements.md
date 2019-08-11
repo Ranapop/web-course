@@ -2,8 +2,8 @@
 This week you will add the following functionalities:
 * interract with the list (select life goals)
 * add new life goals
-* edit life goal
-* delete life goal
+* edit existing life goals
+You are free to use Javascript or jQuery.
 # Tasks
 ## 1) Construct the life-goals list in Javascript
 Until now, you most probably had the list of goals defined directly in the html. As in the following tasks you will have to dynamically
@@ -18,3 +18,5 @@ var lifeGoals = [
 ```
 Then, you should display the names in the list of life goals (no further interaction is needed for now)
 For the list above, the ui should look like this:
+
+![javascript_list_ui](https://github.com/Ranapop/web-course/blob/master/images/mocks/week3/week3_1.png)
