@@ -44,8 +44,8 @@ It is not in the scope of this task to:
 This is how the edit button should look on hover:
 ![edit_hover](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_hover.png)
 This is the form that appears on clicking the edit button:
-![edit_click](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_click.png)
+![edit_click](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/on_edit_button_click.png)
 This is how a color can be selected:
-![edit_select_box](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/edit_button_click_select_box.png)
+![edit_select_box](https://github.com/Ranapop/web-course/blob/master/images/mocks/week2/on_edit_button_click_select_box.png)
 
 
