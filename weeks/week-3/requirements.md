@@ -4,7 +4,7 @@ This week you will add the following functionalities:
 * add new life goals
 * edit life goal
 * delete life goal
-You are free to use Javascript or JQuery.
+You are free to use Javascript or jQuery.
 # Tasks
 ## 1) Construct the life-goals list in Javascript
 Until now, you most probably had the list of goals defined directly in the html. As in the following tasks you will have to dynamically
