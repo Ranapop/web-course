@@ -2,8 +2,7 @@
 This week you will add the following functionalities:
 * interract with the list (select life goals)
 * add new life goals
-* edit life goal
-* delete life goal
+* edit existing life goals
 You are free to use Javascript or jQuery.
 # Tasks
 ## 1) Construct the life-goals list in Javascript
