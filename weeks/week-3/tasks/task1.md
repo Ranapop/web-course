@@ -13,4 +13,4 @@ var lifeGoals = [
 Then, you should display the names in the list of life goals (no further interaction is needed for now)
 For the list above, the ui should look like this:
 
-![javascript_list_ui](https://github.com/Ranapop/web-course/blob/master/images/mocks/week3/week3_1.png)
+>![javascript_list_ui](https://github.com/Ranapop/web-course/blob/master/images/mocks/week3/week3_1.png)
