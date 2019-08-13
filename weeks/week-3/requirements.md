@@ -5,7 +5,7 @@ This week you will add the following functionalities:
 * edit existing life goals
 You are free to use Javascript or jQuery.
 # Tasks
-## 1) [Construct the life-goals list in Javascript](task1.md) 
+## 1) [Construct the life-goals list in Javascript](tasks/task1.md) 
 Until now, you most probably had the list of goals defined directly in the html. As in the following tasks you will have to dynamically
 modify the list, it's better to put it in the javascript already and construct it dynamically. You should define a list of objects, 
 something like this: 
