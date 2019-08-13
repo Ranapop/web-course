@@ -1,3 +1,4 @@
+## 1) Construct the life-goals list in Javascript
 
 Until now, you most probably had the list of goals defined directly in the html. As in the following tasks you will have to dynamically
 modify the list, it's better to put it in the javascript already and construct it dynamically. You should define a list of objects, 
