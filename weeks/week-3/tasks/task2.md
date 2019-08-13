@@ -1,3 +1,5 @@
+## 2) Interact with the life-goals list
+
 In this task, you have to add the functionality of interacting with the list of life goals.
 Initially (when the page loads), the first item in the list is selected.
 Then, as you click on the list, the item you click on is selected (blue color). Besides the item being highlighed in the list, the data in the right panel changes to match the selected item in the list. In this task you only care about the readonly view to be updated.
